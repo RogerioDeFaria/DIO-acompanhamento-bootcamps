@@ -17,7 +17,7 @@
 - Continuação da atividade:
 	- Criando seu Primeiro Repositório no GitHub para Compartilhar seu Progresso
 
-- Lançamento do bootcamp Cognizant Java Developer
+- Live: Lançamento do bootcamp Cognizant Java Developer
 
 **30/11/2021**
 
@@ -25,3 +25,8 @@
 	- Criando seu Primeiro Repositório no GitHub para Compartilhar seu Progresso
 
 - Criação do repositório **DIO-acompanhamento-bootcamps**, para registro de acompanhamento dos bootcamps realizados na DIO.
+
+- Mentoria #1: Aula Inaugural
+
+- Inicio da atividade:
+	- Dominando IDEs Java
