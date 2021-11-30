@@ -1,4 +1,4 @@
-##Bootcamp Cognizant Java Developer
+## Bootcamp Cognizant Java Developer
 
 **28/11/2021**
 	Inscrição e início no bootcamp Java
@@ -13,8 +13,9 @@
 	- Criando seu Primeiro Repositório no GitHub para Compartilhar seu Progresso
 
 **29/11/2021**
-	Continuação da atividade:
-	- Criando seu Primeiro Repositório no GitHub para Compartilhar seu Progresso
+
+Continuação da atividade:
+- Criando seu Primeiro Repositório no GitHub para Compartilhar seu Progresso
 
 	Lançamento do bootcamp Cognizant Java Developer
 
