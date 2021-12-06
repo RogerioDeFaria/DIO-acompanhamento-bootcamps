@@ -12,3 +12,8 @@
 >     Instagram: https://www.instagram.com/estudant.i  (mais usado)  
 >     Instagram: https://www.instagram.com/camimi_la  
 
+- Variáveis, Tipos de Dados e Operadores Matemáticos em Java
+> **Prof. Thiago Leite e Carvalho** - Engenheiro de Software  
+>     LinkedIn: https://linkedin.com/in/thiago-leite-e-carvalho-1b337b127  
+>     GitHub: https://github.com/thiagoleitecarvalho  
+>     GitHub: https://github.com/tlcdio  
